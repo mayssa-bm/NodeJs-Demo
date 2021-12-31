@@ -1,0 +1,35 @@
+{
+  "name": "nodejs-demo",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "babel-node ./app.js",
+    "test": "jest",
+    "build": "echo Test build completed! No package was uploaded"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayssa-bm/nodejs-demo.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "express",
+    "babel"
+  ],
+  "author": "maissa ben mefteh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayssa-bm/nodejs-demo/issues"
+  },
+  "homepage": "https://github.com/mayssa-bm/nodejs-demo#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset": "^1.1.7",
+    "babel-preset-env": "^1.7.0",
+    "express": "^4.17.2",
+    "jest": "^27.4.5"
+  }
+}
