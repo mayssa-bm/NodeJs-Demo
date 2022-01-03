@@ -5,7 +5,7 @@
 this repo contains a CI/CD pipeline for a Node Js application  <br />
 
 the Node Js application is as follows :  <br /> 
-the code of the Demo application is as follows : <br />
+
 
 |nodejs-demo <br />
 |<br />
