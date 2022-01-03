@@ -4,8 +4,7 @@
 --------
 this repo contains a CI/CD pipeline for a Node Js application  <br />
 
-the Node Js application is as follows :  <br /> 
-
+the Node Js application : <br />
 
 |nodejs-demo <br />
 |<br />
@@ -22,6 +21,5 @@ the Node Js application is as follows :  <br />
          |          |–– home.html <br />
          |––routes <br />
          |          |––route.js <br />
-         <br />
-------
+  
 
